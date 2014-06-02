@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tiny Viwer", "Tiny Viwer.vcxproj", "{2824B18D-6E48-4300-A6B0-A946C5ABA59B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TRender", "..\TRender\TRender.vcxproj", "{98779B8A-8137-4F9C-A8CF-D40F9D685E15}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tiny Converter", "..\Tiny Converter\Tiny Converter.vcxproj", "{30A62A12-EC1F-407A-B190-9FDAE5A0509B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2824B18D-6E48-4300-A6B0-A946C5ABA59B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2824B18D-6E48-4300-A6B0-A946C5ABA59B}.Debug|Win32.Build.0 = Debug|Win32
+		{2824B18D-6E48-4300-A6B0-A946C5ABA59B}.Release|Win32.ActiveCfg = Release|Win32
+		{2824B18D-6E48-4300-A6B0-A946C5ABA59B}.Release|Win32.Build.0 = Release|Win32
+		{98779B8A-8137-4F9C-A8CF-D40F9D685E15}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98779B8A-8137-4F9C-A8CF-D40F9D685E15}.Debug|Win32.Build.0 = Debug|Win32
+		{98779B8A-8137-4F9C-A8CF-D40F9D685E15}.Release|Win32.ActiveCfg = Release|Win32
+		{98779B8A-8137-4F9C-A8CF-D40F9D685E15}.Release|Win32.Build.0 = Release|Win32
+		{30A62A12-EC1F-407A-B190-9FDAE5A0509B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30A62A12-EC1F-407A-B190-9FDAE5A0509B}.Debug|Win32.Build.0 = Debug|Win32
+		{30A62A12-EC1F-407A-B190-9FDAE5A0509B}.Release|Win32.ActiveCfg = Release|Win32
+		{30A62A12-EC1F-407A-B190-9FDAE5A0509B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
